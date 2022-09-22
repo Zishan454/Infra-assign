@@ -12,3 +12,6 @@ while  [[ num -le 10 ]]
    echo $num, $RANDOM >> inputFile
    ((num= num + 1 ))
  done 
+
+
+##comments added##
